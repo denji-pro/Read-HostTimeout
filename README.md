@@ -7,7 +7,7 @@ Modification of PowerShell Read-Host that provides a timeout and default value o
 Install to a local PowerShell modules directory
 
 ```pwsh
-$env:$PSModulePath
+$env:PSModulePath
 ```
 
 ## Usage/Examples
