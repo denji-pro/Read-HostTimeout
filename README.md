@@ -1,6 +1,6 @@
 # Read-HostTimeout
 
-Modification of PowerShell Read-Host that provides a timeout and default value options for user input
+Emulate Read-Host with a timeout and default value
 
 ## Installation
 
