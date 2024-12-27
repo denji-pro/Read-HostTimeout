@@ -5,10 +5,10 @@
 @{
 
     # Script module or binary module file associated with this manifest.
-    # RootModule = ''
+    RootModule = 'Read-HostTimeout.psm1'
     
     # Version number of this module.
-    ModuleVersion = '1.0.0'
+    ModuleVersion = '1.1.0'
     
     # Supported PSEditions
     CompatiblePSEditions = @('Desktop', 'Core')
@@ -32,7 +32,7 @@
     PowerShellVersion = '5.1'
     
     # Name of the PowerShell host required by this module
-    # PowerShellHostName = ''
+    PowerShellHostName = 'ConsoleHost'
     
     # Minimum version of the PowerShell host required by this module
     # PowerShellHostVersion = ''
